@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Amoled](https://github.com/atebitsy/cruuunchify-themes/amoled/screenshot.png)
+![Amoled](https://github.com/atebitsy/cruuunchify-themes/blob/master/Amoled/screenshot.png)
 
 ## More
 
